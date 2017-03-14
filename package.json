@@ -1,0 +1,14 @@
+{
+  "name": "directory-report",
+  "version": "1.0.0",
+  "description": "A simple tool for listing directory contents recursively",
+  "main": "report.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "exceljs": "^0.3.0",
+    "upath": "^1.0.0"
+  },
+  "devDependencies": {},
+  "author": "Joan R. Bellido <jrbellido@gmail.com>",
+  "license": "ISC"
+}
