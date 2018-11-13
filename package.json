@@ -1,11 +1,11 @@
 {
   "name": "directory-report",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple tool for listing directory contents recursively",
   "main": "report.js",
   "dependencies": {
     "commander": "^2.9.0",
-    "exceljs": "^0.3.0",
+    "exceljs": "^1.6.3",
     "upath": "^1.0.0"
   },
   "devDependencies": {},

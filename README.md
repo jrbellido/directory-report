@@ -12,4 +12,4 @@ To do:
 
 ## Usage
 
-    $ npm report.js --help
+    $ node report.js --help
